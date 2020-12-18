@@ -1,1 +1,1 @@
-A demo trial for git learning !
+# smarttech New file !
